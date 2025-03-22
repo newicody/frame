@@ -1,0 +1,10 @@
+    Côté soleil
+┌──────────────────────────┐ ← 1. Film plastique transparent anti-UV (PVC ou PET)
+│                          │
+│      → Époxy de surface (protection + collage transparent)  
+│      → Cellules photovoltaïques  
+│      → Busbars + tabulation  
+│      → Papier isolant (Kapton 0.1 mm)  
+│      → Époxy d'accroche / de calage mécanique
+│      → Support aluminium anodisé 0.3 mm
+└──────────────────────────┘ ← Côté structure
